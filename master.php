@@ -13,7 +13,7 @@
     <script src="https://ajax.googleleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
-<body style="font-family:Impact">
+<body style="font-family:Century Gothic">
 <div class="jumbotron" style="background-color:#7393B3">
     <div class="container text-center">
         <h1>UAGC University</h1>
